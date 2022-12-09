@@ -1,10 +1,10 @@
 #iclude <stdio.h>
-int main (void)
-	/*
-	 * Main, is the function
-	 *  
-	 */ 
+/**
+* main - prints the string "Programming is like building a multilingual puzzle
+ * Return: 0
+ */
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+		puts("\"Programming is like building a multilingual puzzle");
+			return (0);
 }
