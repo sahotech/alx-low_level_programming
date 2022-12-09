@@ -1,5 +1,5 @@
 #include <stdio.h>
-/**
+ /**
  * main - Entry of the function
  * return 0 if the code is correct
  */
