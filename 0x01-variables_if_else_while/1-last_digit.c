@@ -7,6 +7,7 @@
  * MAIN = Print a string according to the number
  *RETURN = Always 0
  */
+
 int main(void) /* Description : Main Function */
 
 {
@@ -21,14 +22,12 @@ int main(void) /* Description : Main Function */
 	if (lastdig > 5)
 
 	{
-
 		printf("Last digit of %d is %d and is greater than 5\n", n, lastdig);
 	}
 
 	else if( lastdig == 0)
 	
 	{
-
 		printf("Last digit of %d is %d and is 0\n", n, lastdig);
 
 	}	
@@ -36,9 +35,7 @@ int main(void) /* Description : Main Function */
 	else if("lastdig < 6 && lastdig != 0")
 	
 	{
-	
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lastdig);
-
 
 	}
 	
