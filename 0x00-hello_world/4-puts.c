@@ -1,4 +1,3 @@
-#!/bin/bash
 #iclude <stdio.h>
 int main(void)
 {
