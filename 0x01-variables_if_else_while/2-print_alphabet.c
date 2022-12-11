@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - Print out Alphabet 
- * Return: Always return (success) 0
- */
+* main - Print out alphabetic
+* Return: Always (Success)
+*/
 
 int main(void)
 {
 char c;
-for (c = 'a'; c <= 'z'; c++;)
+for (c = 'a'; c <= 'z'; c++)
 putchar(c);
 putchar('\n');
 return (0);
