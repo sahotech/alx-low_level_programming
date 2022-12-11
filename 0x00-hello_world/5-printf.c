@@ -2,6 +2,7 @@
 
 /**
 * main - Entry point.
+* Description: Print out the script
 * Return - Always 0 (Success)
 */
 
