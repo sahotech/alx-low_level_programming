@@ -2,11 +2,10 @@
 
 /**
  * main -Entry point
- * Description:print out _putchar to new line
  * Return - Always (Success) 
  */
 
-int main(void)
+int main(void) /* Description: print out _putchar to new line */
 {
 	_putchar('_');
 	_putchar('p');
