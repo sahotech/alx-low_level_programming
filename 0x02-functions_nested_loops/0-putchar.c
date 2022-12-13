@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  * Description:print out _putchar to new line
- * return - it return 0 always
+ * return - Always (Success) 0 
  */
 
 int main(void)
