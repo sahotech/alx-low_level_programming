@@ -6,7 +6,7 @@
  * Return - Always (success)
  */
 
-int main(void)
+int main(void) /* Description - Print outthe _putchar*/
 {
 	_putchar('_');
 	_putchar('p');
