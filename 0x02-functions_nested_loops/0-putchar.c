@@ -1,8 +1,8 @@
 #include "main.h"
 
-/**
- * main - Entry point that print _putchar to standard output
- * return - always (Success) 0
+/** main - Entry point
+ * Description - Print outthe _putchar
+ * return - it return 0 always
  */
 
 int main(void)
@@ -17,4 +17,3 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-}
