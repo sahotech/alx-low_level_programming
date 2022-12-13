@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main - Entry point
  * Description - Print outthe _putchar
  * Return - Always (success)
  */
 
-int main(void) /* Description - Print outthe _putchar*/
+int main(void) /* Description - Print out the _putchar */
 {
 	_putchar('_');
 	_putchar('p');
