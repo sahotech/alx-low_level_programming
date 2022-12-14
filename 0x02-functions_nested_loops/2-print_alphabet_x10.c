@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * main- print out alphabet in lowercase ten times
+ *  print_alphabet_x10 - print out alphabet in lowercase ten times
  */
 
 void print_alphabet_x10(void)
 {
 int count = 0;
 char alphabet;
-while (count++ <=9)
+while (count++ <= 9)
 {
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
