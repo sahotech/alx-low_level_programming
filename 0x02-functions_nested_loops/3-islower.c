@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _lslower - funtion to check for lowecase character
+ * _lslower - check for lowercase character
  * *@c: is the int that will use for the argument of the function
  * Return:0
  */
