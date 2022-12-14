@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *  _islower - check if thr leter is lowercase or uppercase
- * return - return 1 if the condition is true otherwise return 0
+ *  _islower -main function
+ *  c - c isthe  argument  
+ * return - return 0 or 1
  */
 
 int _islower(int c)
