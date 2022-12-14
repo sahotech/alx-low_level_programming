@@ -3,7 +3,7 @@
 /**
  * main-main block
  *
- * Description:print -putchar in a new line
+ * Description:print out -putchar
  *
  * Return:this program returns zero
  */
