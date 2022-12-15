@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * add -prints add two numbers
- *@a: print int a
- *@b: print int b
- * Return: Always 0.
+ * mul - multiple two numbers
+ *@a: first
+ *@b: second
+ * Return: multiplied number
  */
 
 int mul(int a, int b)
