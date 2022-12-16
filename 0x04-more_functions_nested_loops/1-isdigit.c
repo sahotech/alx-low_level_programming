@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isdigit - check if a character is alphabetic.
+ * _isdigit - check if a character is digit
  * *@c: check the character.
- * Return: 1 if the character is letter, lowercase or uppercase,  0 otherwise.
+ * Return: 1 if the character is digit,  0 otherwise.
  */
 
 int _isdigit(int c)
