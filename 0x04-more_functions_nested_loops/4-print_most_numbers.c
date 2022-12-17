@@ -14,5 +14,5 @@ if (i != 32 && i != 52)
 _putchar(i);
 }
 }
-_putchar('\n');
+putchar('\n');
 }
