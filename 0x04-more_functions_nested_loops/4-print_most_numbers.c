@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * print_most_numbers - prints number
+ * print_most_numbers - prints numbe zero to nine
+ * (neither 2 nor 4)
+ * Return: no return
  */
 
 void print_most_numbers(void)
