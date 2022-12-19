@@ -1,4 +1,4 @@
-#include "main.hh"
+#include "main.h"
 
 /**
  * reset_to_98 = update the value to the Variable
