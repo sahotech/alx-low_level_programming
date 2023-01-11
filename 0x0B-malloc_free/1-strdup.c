@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 
-/*
+/**
  * _strdup - return a pointer to newly allocated memory
  * @str: a string given by main
  * Return: the pointer or null
